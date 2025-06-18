@@ -17,7 +17,7 @@ conda activate gengan
 ```
 
 ## Running utility experiments
-In order the run the experiments on assessing GenGAN's utility, first run the code in the [experiments notebook](./experiments.ipynb). After that, you can run the [utility notebook](utility.ipynb). Make sure you activate the nemo environment for running these notebooks, e.g.:
+In order to run the experiments on assessing GenGAN's utility, first run the code in the [experiments notebook](./experiments.ipynb). After that, you can run the [utility notebook](utility.ipynb). Make sure you activate the nemo environment for running these notebooks, e.g.:
 
 If it's your first time running the script:
 ```bash
